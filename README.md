@@ -48,7 +48,7 @@ Passionate about building scalable applications, network automation solutions, a
 - Generative AI
 - Network Automation
 - REST APIs
-- Backend Development
+- Fullstack Development
 - System Design Basics
 
 
