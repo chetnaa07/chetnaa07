@@ -1,4 +1,4 @@
-````md
+md
 <h1 align="center">Hi 👋, I'm Chetna Ahir</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Cloud & Automation Enthusiast</h3>
 
@@ -10,8 +10,6 @@ Passionate about building scalable applications, network automation solutions, a
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Cloud+%26+Network+Automation;Terraform+%7C+Docker+%7C+NSO;AI%2FML+%7C+GenAI+Explorer;System+Design+Learner" />
 </p>
 
----
-
 ## 🚀 About Me
 
 - 💻 Software Engineer with hands-on experience in Full Stack Development and Network Automation  
@@ -21,7 +19,7 @@ Passionate about building scalable applications, network automation solutions, a
 - 📚 Strong interest in Cloud, Automation, and Backend Engineering
 - 🎯 Goal: To build impactful software and scalable systems
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -37,7 +35,7 @@ Passionate about building scalable applications, network automation solutions, a
 </a>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -53,14 +51,14 @@ Passionate about building scalable applications, network automation solutions, a
 - Backend Development
 - System Design Basics
 
----
+
 
 ## 📜 Certifications
 
 🏆 **CCNA**  
 🏆 **Cisco DevNet**
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -76,7 +74,6 @@ Passionate about building scalable applications, network automation solutions, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnaa07&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
----
 
 ## 🧠 Problem Solving
 
@@ -90,7 +87,6 @@ Passionate about building scalable applications, network automation solutions, a
 </a>
 </p>
 
----
 
 ## ⚡ Fun Fact
 
